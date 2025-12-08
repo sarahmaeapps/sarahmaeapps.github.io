@@ -21,6 +21,7 @@ Se7en.es, 212430, RESELLER, 064bc410192443d8
 eskimi.com, 2020000030, RESELLER
 video.unrulymedia.com, 188404962, RESELLER
 zmaticoo.com, 113149, RESELLER
+adingo.jp, 33491, RESELLER
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 apester.com, 2212, RESELLER
 appnexus.com, 14077, RESELLER
