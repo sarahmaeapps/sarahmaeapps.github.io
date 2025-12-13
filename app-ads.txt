@@ -81,7 +81,8 @@ unity.com, 1001, DIRECT, aecb8b333638
 unity.com, 1002, DIRECT, aecb8b333638
 unity.com, 1003, DIRECT, aecb8b333638
 unity.com, 1004, DIRECT, aecb8b333638
-
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
 mindtos.com, mt45eb5f865ce39e1b, RESELLER
 gitberry.com, 335100012, RESELLER
 mman.kr, 32102, RESELLER
